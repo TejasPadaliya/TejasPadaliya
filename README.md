@@ -1,4 +1,3 @@
-# 💫 About Me:
 CS Student at UNB | 🛠️ Exploring Software, Systems, and Innovation | 🌐 Building Projects Across Languages & Frameworks
 
 
@@ -15,7 +14,7 @@ CS Student at UNB | 🛠️ Exploring Software, Systems, and Innovation | 🌐 B
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->## Hi there 👋
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->##
 
 <!--
 **TejasPadaliya/TejasPadaliya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
